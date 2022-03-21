@@ -1,0 +1,29 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+**/.vscode/*
+**/.vs/*
+**/obj/*
+**/bin/*
+**/*.user
+**/logs/*
+
+obj
+bin
+logs
+vs
+*.user
+
+**/.angular/cache
+node_modules
+dist
+/dist
+
+# Editor directories and files
+.idea
+.vscode
+.vs
+*.suo
+*.ntvs*
+*.njsproj
+*.sw?
